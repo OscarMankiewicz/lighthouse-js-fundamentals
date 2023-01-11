@@ -22,6 +22,3 @@ const calculateCircleArea = function (radius) {
   }
 }
 
-console.log(calculateCircleArea(10)); // should print 314.159...
-console.log(calculateCircleArea(3.5)); // should print 38.484...
-console.log(calculateCircleArea(-1)); // should print undefined
